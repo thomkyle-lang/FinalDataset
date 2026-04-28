@@ -1,0 +1,153 @@
+﻿"Bachelor's degree ","Early-career bachelor's degree holders","Prime-age bachelor's degree holders","Prime-age graduate degree holders"
+"Accounting",0.0282,0.0432,0.0319
+"Actuarial science",0.0011,0.0005,0.0002
+"Business economics",0.0022,0.002,0.0015
+"Business management and administration",0.0521,0.0795,0.041
+"Finance",0.0327,0.0284,0.0205
+"General business",0.0404,0.0549,0.0301
+"Hospitality management",0.008,0.007,0.0016
+"Human resources and personnel management",0.0045,0.0056,0.0042
+"International business",0.0035,0.0032,0.0025
+"Management information systems and statistics",0.0041,0.0064,0.0033
+"Marketing and marketing research",0.0368,0.0328,0.0116
+"Miscellaneous business and medical administration",0.0033,0.0032,0.0016
+"Operations logistics and e-commerce",0.0046,0.0029,0.0014
+"Advertising and public relations",0.0091,0.006,0.0023
+"Communications and mass media",0.0429,0.0391,0.0186
+"Journalism",0.0107,0.0104,0.006
+"Criminal justice and fire protection",0.0299,0.0295,0.0137
+"Family and consumer sciences",0.0082,0.0068,0.0057
+"Industrial arts, consumer services, and recreation: Other",0.006,0.0056,0.0011
+"Military technologies",,0.0001,0.0001
+"Physical fitness, parks, recreation, and leisure",0.0204,0.0129,0.0112
+"Transportation sciences and technologies",0.0027,0.0039,0.0016
+"Art and music education",0.0043,0.0032,0.0047
+"Early childhood education",0.0054,0.0036,0.0043
+"Elementary education",0.0194,0.0179,0.0287
+"General education",0.0187,0.0221,0.0366
+"Language and drama education",0.0031,0.0024,0.0052
+"Mathematics teacher education",0.0018,0.0011,0.0025
+"Miscellaneous education",0.0015,0.0023,0.0061
+"Physical and health education teaching",0.0027,0.004,0.0048
+"Science and computer teacher education",0.0009,0.0009,0.0018
+"Secondary teacher education",0.002,0.0024,0.0045
+"Social science or history teacher education",0.0019,0.0019,0.003
+"Special needs education",0.0035,0.0025,0.0066
+"Teacher education: multiple levels",0.0019,0.0014,0.0023
+"Human services and community organization",0.0017,0.0023,0.0017
+"Public administration",0.0006,0.0013,0.002
+"Public policy",0.0011,0.0006,0.0012
+"Social work",0.0074,0.007,0.0132
+"Theology and religious vocations",0.004,0.0047,0.0057
+"Communication disorders sciences and services",0.002,0.0012,0.0077
+"Community and public health",0.0049,0.0023,0.0029
+"General medical and health services",0.006,0.0035,0.0046
+"Health and medical administrative services",0.0041,0.0044,0.0033
+"Health and medical preparatory programs",0.0009,0.0006,0.003
+"Miscellaneous health medical professions",0.0055,0.0064,0.0053
+"Nursing",0.0469,0.0463,0.0275
+"Nutrition sciences",0.0022,0.0016,0.0022
+"Pharmacy and pharmaceutical sciences and administration",0.0009,0.0026,0.0078
+"Treatment therapy professions",0.0047,0.0056,0.0092
+"Commercial art and graphic design",0.0163,0.0146,0.003
+"Drama and theater arts",0.0051,0.0041,0.0027
+"Film, video, and photographic arts",0.0053,0.0039,0.0013
+"Fine arts",0.0092,0.0114,0.0054
+"Music",0.0062,0.0053,0.0067
+"Studio arts",0.002,0.0018,0.0012
+"Visual and performing arts",0.0018,0.0013,0.0008
+"Area ethnic and civilization studies",0.0033,0.0025,0.0042
+"Art history and criticism",0.0019,0.0017,0.0023
+"Composition and speech",0.0026,0.0017,0.0014
+"English language and literature",0.0202,0.0211,0.0307
+"French, German, Latin and other common foreign language studies",0.0043,0.004,0.0071
+"History",0.0146,0.0156,0.0243
+"Humanities",0.0007,0.0009,0.0009
+"Intercultural and international studies",0.0033,0.0018,0.0025
+"Liberal arts",0.0089,0.0129,0.0083
+"Linguistics and comparative language and literature",0.0015,0.0014,0.0022
+"Other foreign languages",0.0011,0.0011,0.0016
+"Philosophy and religious studies",0.0047,0.0043,0.0089
+"Multi/interdisciplinary studies",0.0021,0.0019,0.0014
+"Multidisciplinary or general science",0.008,0.0099,0.0083
+"Agricultural economics",0.0005,0.0007,0.0005
+"Agriculture production and management",0.0034,0.0028,0.0008
+"Animal sciences",0.0038,0.0026,0.0028
+"Food science",0.0009,0.0007,0.0008
+"Forestry",0.0007,0.0013,0.0007
+"General agriculture",0.0019,0.0023,0.0014
+"Miscellaneous agriculture",0.0004,0.0002,0.0002
+"Natural resources management",0.0027,0.0025,0.0017
+"Plant science and agronomy",0.0015,0.0018,0.0011
+"Soil science",,0.0001,0.0001
+"Aerospace engineering",0.0028,0.0018,0.0032
+"Architectural engineering",0.0004,0.0005,0.0004
+"Architecture",0.0052,0.007,0.0075
+"Biomedical engineering",0.004,0.0017,0.0038
+"Chemical engineering",0.0072,0.0052,0.008
+"Civil engineering",0.0094,0.0097,0.0097
+"Electrical engineering",0.0108,0.0182,0.0266
+"Engineering and industrial management",0.0004,0.0007,0.0006
+"Engineering mechanics, physics, and science",0.0006,0.0004,0.0009
+"Engineering technologies",0.001,0.0013,0.0007
+"Environmental engineering",0.001,0.0005,0.0009
+"General engineering",0.0094,0.0127,0.0123
+"Geological and geophysical engineering",,0.0001,0.0001
+"Industrial and manufacturing engineering",0.0035,0.004,0.0046
+"Industrial production technologies",0.0007,0.0019,0.0007
+"Materials engineering and materials science",0.0006,0.0005,0.001
+"Mechanical engineering",0.0207,0.0174,0.0195
+"Mechanical engineering related technologies",0.0011,0.0011,0.0004
+"Metallurgical engineering",,0.0002,0.0004
+"Mining and mineral engineering",,0.0002,0.0002
+"Miscellaneous engineering",0.0021,0.0019,0.0017
+"Miscellaneous engineering technologies",0.0027,0.0051,0.0029
+"Naval architecture and marine engineering",,0.0003,0.0003
+"Nuclear engineering",0.0003,0.0003,0.0005
+"Petroleum engineering",0.0006,0.0005,0.0004
+"Biochemical sciences",0.0049,0.0021,0.0082
+"Biology",0.032,0.0208,0.055
+"Botany",,0.0002,0.0005
+"Ecology",0.0018,0.0014,0.0015
+"Environmental science",0.0062,0.0042,0.0035
+"Genetics",0.0004,0.0002,0.0008
+"Microbiology",0.0014,0.0014,0.0039
+"Miscellaneous biology",0.0016,0.0011,0.0025
+"Molecular biology",0.0017,0.0009,0.0033
+"Neuroscience",0.0024,0.0005,0.0018
+"Physiology",0.0025,0.0013,0.0037
+"Zoology",0.001,0.0009,0.0026
+"Applied mathematics",0.0011,0.0007,0.0012
+"Computer and information systems",0.0077,0.012,0.0069
+"Computer engineering",0.0083,0.0078,0.0087
+"Computer science",0.0278,0.0309,0.0259
+"Computers, statistics, and mathematics: Other",0.0073,0.0075,0.003
+"Information sciences",0.0028,0.0033,0.0022
+"Mathematics",0.0093,0.0085,0.015
+"Statistics and decision science",0.0015,0.0007,0.0014
+"Astronomy and astrophysics",,0.0001,0.0004
+"Atmospheric sciences and meteorology",0.0005,0.0005,0.0006
+"Chemistry",0.0077,0.0059,0.0174
+"Geology and earth science",0.0022,0.0024,0.0034
+"Geosciences",0.0003,0.0002,0.0005
+"Materials science",0.0008,0.0003,0.001
+"Nuclear, industrial radiology, and biological technologies",0.0004,0.0004,0.0002
+"Oceanography",0.0004,0.0003,0.0004
+"Other physical sciences",,0.0002,0.0002
+"Physics",0.0036,0.0026,0.0097
+"Cognitive science and biopsychology",0.0008,0.0003,0.0005
+"Counseling psychology",0.0005,0.0004,0.0022
+"Industrial and organizational psychology",0.0003,0.0004,0.0006
+"Psychology",0.05,0.0377,0.0591
+"Social psychology",,0.0002,0.0002
+"Anthropology and archaeology",0.0044,0.0034,0.0052
+"Criminology",0.0037,0.0027,0.0015
+"Economics",0.0218,0.0194,0.0232
+"General social sciences",0.0015,0.0023,0.0021
+"Geography",0.0024,0.0031,0.0025
+"Interdisciplinary social sciences",0.0015,0.0014,0.0017
+"International relations",0.0037,0.0023,0.0046
+"Miscellaneous social sciences",0.0005,0.0004,0.0006
+"Political science and government",0.0211,0.0186,0.0327
+"Pre-law and legal studies",0.0015,0.0018,0.0017
+"Sociology",0.0139,0.0142,0.0134
